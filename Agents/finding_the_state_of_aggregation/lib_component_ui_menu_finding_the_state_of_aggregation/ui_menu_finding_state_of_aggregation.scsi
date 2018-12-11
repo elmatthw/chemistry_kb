@@ -11,5 +11,5 @@ ui_menu_finding_state_of_aggregation => ui_nrel_command_template:
 		._action_finding_state_of_aggregation_instance _<- question;;
 	*];;
 
-ui_menu_finding_state_of_aggregation => ui_nrel_command_lang_template: [Какое агрегатное состояние имеет заданный химический элемент: $ui_arg_1] (* <- lang_ru;;*);;
+ui_menu_finding_state_of_aggregation => ui_nrel_command_lang_template: [Какое агрегатное состояние имеет заданное химическое вещество: $ui_arg_1] (* <- lang_ru;;*);;
 ui_menu_finding_state_of_aggregation => ui_nrel_command_lang_template: [What is the aggregate state of given chemical substance: $ui_arg_1] (* <- lang_en;;*);;
